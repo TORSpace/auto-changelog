@@ -1,2 +1,1 @@
-# changelog
-TOR|Space / Polaris Technologies website changelog and updatelog
+<u><h1>Website auto-changelog</h1></u>
